@@ -1,4 +1,4 @@
-**Bookmark Manager**
+#**Bookmark Manager**
 A web application to manage and organize your bookmarks efficiently. The Bookmark Manager app allows users to save, and access bookmarks seamlessly across devices, providing an intuitive and user-friendly experience.
 
 **Features**
@@ -7,6 +7,6 @@ A web application to manage and organize your bookmarks efficiently. The Bookmar
 3. Simple and interactive user interface built with ReactJS.
 
 **Technologies Used**
-ReactJS: For building the user interface.
-HTML/CSS: For layout and styling.
-JavaScript: For interactivity and logic.
+- ReactJS: For building the user interface.
+- HTML/CSS: For layout and styling.
+- JavaScript: For interactivity and logic.
